@@ -126,7 +126,7 @@ def most_affected_prison(value):
     plt.show()
 
 
-file_info()
+# file_info()
 # states('cases')
 # states('deaths')
 # colleges_VS_prisons()
